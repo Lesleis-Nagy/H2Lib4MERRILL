@@ -22,4 +22,8 @@ The library offers
 * functions for performing arithmetic operations on hierarchical
   matrices like truncated matrix multiplication, inversion,
   and factorization.
-  
+
+# MERRILL
+
+This repository contains changes to H2Lib for the MERRILL micromagnetics
+software.
